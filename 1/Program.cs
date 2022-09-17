@@ -12,11 +12,11 @@ int b = int.Parse(Console.ReadLine());
 
 if (a > b)
 {
-    Console.Write($"Max ={a}");
+    Console.Write($"Max = {a}");
 }
 else if (a < b)
 {
-    Console.Write($"Max ={b}");
+    Console.Write($"Max = {b}");
 }
 else if (a == b)
 {
